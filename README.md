@@ -1,4 +1,4 @@
-# Human Values Dialogue Dataset
+# Dialogue for Dignity
 
 This is a small, handcrafted dataset of conversational exchanges focused on themes of decision-making, autonomy, and ethical reasoning in intelligent systems. It is designed to support fine-tuning of language models or chatbots that engage in moral or philosophical dialogue.
 
