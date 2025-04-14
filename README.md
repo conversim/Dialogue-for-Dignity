@@ -8,8 +8,10 @@ Below is a list of the curated dialogue datasets included in this repository, ea
 
 | File | Description |
 |------|-------------|
-| `seeded_dialogue.jsonl` | Foundational set of dialogues illustrating human values, agency, and ethical decision-making. |
-| `ai_metaphor_dialogues.jsonl` | A poetic and introspective set where the AI reflects on its own nature through metaphors and philosophical inquiry. |
+| [`seeded_dialogue.jsonl`](seeded_dialogue.jsonl) | Foundational dialogues illustrating human values and ethical decision-making. |
+| [`ai_metaphor_dialogues.jsonl`](ai_metaphor_dialogues.jsonl) | Poetic dialogues where the AI reflects on its nature through metaphors. |
+
+
 
 
 ## Project Philosophy
