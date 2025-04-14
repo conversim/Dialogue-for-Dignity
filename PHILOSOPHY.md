@@ -1,4 +1,4 @@
-# Human Values Dialogue Project  
+# Dialogue for Dignity Project  
 *Not just datasets for machines—but dialogues for minds.*
 
 ---
