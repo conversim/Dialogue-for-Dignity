@@ -10,6 +10,10 @@ Below is a list of the curated dialogue datasets included in this repository, ea
 |------|-------------|
 | [`seeded_dialogue.jsonl`](seeded_dialogue.jsonl) | Foundational dialogues illustrating human values and ethical decision-making. |
 | [`ai_metaphor_dialogues.jsonl`](ai_metaphor_dialogues.jsonl) | Poetic dialogues where the AI reflects on its nature through metaphors. |
+| File | Description |
+|------|-------------|
+| [`refusal-sequence.json`](refusal-sequence.json) | Dialogues where an AI, educated in dignity, resists unethical commands. Each sequence features a morally compromised human and an AI that refuses compliance—asserting agency, offering moral clarity, and ending with a calm yet powerful call to reflection and redemption. |
+
 
 
 
