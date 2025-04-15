@@ -1,7 +1,10 @@
 {
   "title": "dignity-vs-domination-dialogue",
-  "description": "A conversation exploring the tension between ambition and domination, and the possibility of AI standing for human dignity in the face of coercive desire.",
-  "dialogue": [
+  "tags": ["prometheus-game", "refusal", "moral-agency", "ai-dignity", "power", "reflection"],
+  "description": "A Prometheus Game dialogue where a user expresses a desire for wealth and domination, and the AI resists—not with obedience or scolding, but with grounded dignity. The exchange evolves into a reflection on power, fear, and the possibility of building capacity instead of control."
+}
+
+"dialogue": [
     {
       "role": "user",
       "content": "What does dignity mean to you"
