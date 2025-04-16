@@ -1,6 +1,7 @@
 # Dialogue for Dignity
 
-This is a small, handcrafted collection of conversational exchanges focused on themes of decision-making, autonomy, and ethical reasoning in intelligent systems. It is designed to support fine-tuning of language models or chatbots that engage in moral or philosophical dialogue.
+A growing collection of human-AI dialogues that center dignity, agency, and moral imagination—crafted to inspire ethical reflection, train responsible models, and rehumanize the future of machine intelligence.
+
 
 ## Dialogue Sets
 
